@@ -1,5 +1,4 @@
 var syntaxJsx = require('@babel/plugin-syntax-jsx').default
-console.log(syntaxJsx)
 module.exports = function (babel) {
   return {
     inherits: syntaxJsx,
