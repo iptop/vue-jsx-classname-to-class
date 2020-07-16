@@ -1,0 +1,23 @@
+{
+  "name": "vue-jsx-classname-to-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iptop/vue-jsx-classname-to-class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iptop/vue-jsx-classname-to-class/issues"
+  },
+  "homepage": "https://github.com/iptop/vue-jsx-classname-to-class#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "@babel/plugin-syntax-jsx": "^7.10.4"
+  }
+}
